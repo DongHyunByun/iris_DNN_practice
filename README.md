@@ -1,4 +1,6 @@
-# DNN을 이용한 iris 분류
-> input file : iris.csv  
->>iris의 4가지 att를 이용하여 iris_type을 classification한다.  
->모델은 
+# DNN를 이용한 classification
+
+* input file : iris.csv  
+
+4가지 att를 이용하여 iris의 type을 classification
+
